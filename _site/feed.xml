@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>Archer's Blog</title>
   <subtitle>"Archer's Blog for programming and pentesting"</subtitle>
-  <updated>2025-01-05T23:20:37+02:00</updated>
+  <updated>2025-11-26T20:33:49+02:00</updated>
   <author>
     <name>Gilad Asher Chen</name>
     <uri>http://localhost:4000/</uri>
@@ -20,29 +20,33 @@
 
   
   <entry>
-    <title>Hack the box - Administrator</title>
-    <link href="http://localhost:4000/posts/HTBAdministrator/" rel="alternate" type="text/html" title="Hack the box - Administrator" />
-    <published>2025-01-05T16:21:00+02:00</published>
+    <title>Hacking Forager — Part 1: DLL Injection (A Fun, Technical Deep Dive)</title>
+    <link href="http://localhost:4000/posts/Hacking-Forager-1/" rel="alternate" type="text/html" title="Hacking Forager — Part 1: DLL Injection (A Fun, Technical Deep Dive)" />
+    <published>2025-11-25T00:00:00+02:00</published>
   
-    <updated>2025-01-05T16:21:00+02:00</updated>
+    <updated>2025-11-25T00:00:00+02:00</updated>
   
-    <id>http://localhost:4000/posts/HTBAdministrator/</id>
-    <content type="text/html" src="http://localhost:4000/posts/HTBAdministrator/" />
+    <id>http://localhost:4000/posts/Hacking-Forager-1/</id>
+    <content type="text/html" src="http://localhost:4000/posts/Hacking-Forager-1/" />
     <author>
       <name>Gilad Asher Chen</name>
     </author>
 
   
     
-    <category term="Pentesting" />
+    <category term="gamehacking" />
     
-    <category term="HackTheBox" />
+    <category term="low-level" />
     
   
 
-  <summary>Hey everyone, today I want to explore a medium machine on HTB called Administrator.
-The main themes that persists throughout this box are AD privilege mismanagement abuse to gain increasingly privileged users, with some password cracking thrown into the mix.
-This was a very strange release coming from HTB, as I’ve not seen OSCP-like boxes in a very long time, but I’ll touch more on that in the ...</summary>
+  <summary>Hey everyone!
+Welcome to the first entry of my multi-part series on hacking Forager — a wonderfully addictive 2D open-world crafting game by HopFrog.
+(And if you haven’t already played it, you can find it on steam. → Forager on Steam)
+
+
+
+Forager throws you into a fast-paced loop of gathering, crafting, building and fighting. It’s simple on the surface but has a surprising amount of depth when y...</summary>
 
   </entry>
 
